@@ -68,3 +68,33 @@ Proyek ini dikembangkan secara berkelompok sebagai bagian dari pembelajaran peng
 ## Penutup
 
 Finote diharapkan dapat menjadi aplikasi sederhana yang membantu pengguna dalam mengelola keuangan pribadi secara lebih teratur. Meskipun masih dalam tahap pengembangan dan memiliki fitur yang sederhana, aplikasi ini dapat menjadi dasar untuk pengembangan fitur-fitur yang lebih lengkap di masa mendatang.
+
+## Cara Penggunaan
+
+1. Buka aplikasi Finote.
+2. Login menggunakan akun yang telah tersedia pada aplikasi.
+3. Setelah berhasil login, pengguna akan masuk ke halaman Dashboard.
+4. Pada Dashboard, pengguna dapat melihat total saldo, total pemasukan, dan total pengeluaran.
+5. Tekan tombol **(+)** untuk menambahkan transaksi baru.
+6. Isi informasi transaksi seperti:
+
+   * Judul transaksi
+   * Nominal
+   * Jenis transaksi (Pemasukan atau Pengeluaran)
+   * Kategori
+   * Tanggal transaksi
+7. Tekan tombol **Simpan** untuk menyimpan data transaksi.
+8. Transaksi yang telah ditambahkan akan muncul pada bagian Riwayat Transaksi.
+9. Saldo akan diperbarui secara otomatis berdasarkan data transaksi yang tersimpan.
+
+## Cara Mendapatkan Aplikasi
+
+Saat ini Finote masih berada pada tahap pengembangan dan digunakan untuk kebutuhan pembelajaran. Untuk mencoba aplikasi ini, pengguna dapat:
+
+1. Mengunjungi repository GitHub proyek Finote.
+2. Mengunduh (Download ZIP) source code yang tersedia.
+3. Membuka proyek menggunakan Android Studio.
+4. Melakukan proses Gradle Sync hingga selesai.
+5. Menjalankan aplikasi menggunakan emulator Android atau perangkat Android yang terhubung.
+
+Pada pengembangan selanjutnya, aplikasi Finote dapat didistribusikan dalam bentuk file APK sehingga pengguna dapat menginstal aplikasi secara langsung tanpa perlu menggunakan Android Studio.
